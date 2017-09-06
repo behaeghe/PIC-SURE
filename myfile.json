@@ -1,0 +1,1 @@
+{"select":{"fields":{"pui":"mypath","dataType":"somedatatype"},"2":{"alias":"Systolic Pressure"}}},{"where":{"field":{"pui":"/nhanes/Demo/demographics/demographics/SEX/male","dataType":"STRING"}},"predicate":"CONTAINS","fields":{"ENOUNTER":"YES"}}
